@@ -1,0 +1,45 @@
+/usr/local/opt/openjdk/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Graph 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' '/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Graph 1.0-SNAPSHOT API'
+pr2.org
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/src/main/java = 1618827652650
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/constant-values.html = 1621431071761
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/member-search-index.zip = 1621431071853
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/overview-tree.html = 1621431071786
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/index.html = 1621431071875
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/package-search-index.js = 1621431071809
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/package-search-index.zip = 1621431071843
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/type-search-index.zip = 1621431071852
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/index-all.html = 1621431071856
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/allpackages-index.html = 1621431071872
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/deprecated-list.html = 1621431071796
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/member-search-index.js = 1621431071852
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/script.js = 1621431071897
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/stylesheet.css = 1621431071894
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/help-doc.html = 1621431071887
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/element-list = 1621431071738
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/allclasses-index.html = 1621431071865
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/type-search-index.js = 1621431071848
+/Users/pedrobereilh/Desktop/busquedacaminografoprac3/Graph/target/site/apidocs/search.js = 1621431071910
